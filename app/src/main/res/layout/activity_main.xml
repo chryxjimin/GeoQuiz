@@ -12,4 +12,21 @@
         android:padding="24dp"
         android:text="Hello World" />
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizonatal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="True" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="False" />
+
+    </LinearLayout>
+
 </LinearLayout>
